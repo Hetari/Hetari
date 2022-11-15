@@ -3,6 +3,7 @@ Hi, my name is Ebraheem Hetari
 - I want to share my learning progress with you all
 
 Email: hetari4all@gmail.com
+Telegram: http://t.me/E_1_E
 
 <!---
 Hetari/Hetari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
