@@ -30,4 +30,4 @@ You can explore some of my notable projects on [GitHub](https://github.com/Hetar
 
 - Email: hetari4all@gmail.com
 - Telegram: [@E_1_E](https://t.me/E_1_E)
-- My [CV](https://hetari.github.io/CV/)
+- My [Card](https://hetari.github.io/Card)
