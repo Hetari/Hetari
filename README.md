@@ -12,13 +12,15 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=00758F&logo=mysql&logoColor=FFFFFF&label">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=4FC08D&logo=Vue.js&logoColor=FFFFFF&label=">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=">
 </div>
 
 
 I'm a passionate software developer from Yemen currently studying at Sana University in my last year. I have experience with various programming languages and technologies, with a particular focus on Python and web frontend development. I'm also eager to delve into the exciting field of AI.
 
 ## 🚀 Skills and Technologies
-- Programming Languages: Python, C++, C#, HTML, CSS, JavaScript
+- Programming Languages: Python, C++, C#, HTML, CSS, JavaScript, VueJS 3, and nodeJS
 - Frameworks: Flask (Python), ASP.NET MVC (C#)
 - Databases: SQL Server, mysql
 - Other: Git
