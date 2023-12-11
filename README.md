@@ -1,4 +1,4 @@
-# Hi there, I'm Ebraheem Hetari! 👋
+# Hi there, I'm Ebraheem Hetari <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hi" width="35" style="transform: translateY(5px);">
 <div align="center">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=numpy&color=013243&logo=numpy&logoColor=FFFFFF&label">
