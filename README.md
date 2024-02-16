@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hi" width="35" style="transform: translateY(5px);"> , I'm Ebraheem Alhetari</h1>
 <h3 align="center">A passionate front-end and Python developer from Yemen</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hetari&label=Profile%20views%20%E2%9D%A4%EF%B8%8F&color=0e75b6&style=plastic" alt="hetari" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hetari" alt="hetari" /></a> </p>
 
 - 👯 I’m looking to collaborate on [Mini Python projects](https://github.com/Hetari/Python-Mini-Projects)
