@@ -34,7 +34,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <div align=center>
   <h1>💻Tech Stack</h1>
@@ -65,7 +64,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <div align=center>
   <h1>📊GitHub Stats:</h1>
@@ -75,7 +73,6 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetari&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="hetari" />
 </div>
 
-<br/>
 <br/>
 <br/>
 
@@ -100,7 +97,6 @@
 </div>
 
 
-<br/>
 <br/>
 <br/>
 
