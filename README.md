@@ -96,10 +96,8 @@
   <br/><br/><br/>
 </div>
 
-
 <br/>
 <br/>
-
 
 <div align=center>
   <h1>✍️Random Dev Quote</h1>
