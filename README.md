@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=40&duration=4000&pause=1000&color=10CDACFF&center=true&vCenter=true&random=false&width=550&height=100&lines=Hello+there+;Just+writing+some+code+here!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=40&duration=4000&pause=1000&color=e34882&center=true&vCenter=true&random=false&width=550&height=100&lines=Hello+there+;Just+writing+some+code+here!" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -73,16 +73,16 @@
 <div align=center>
   <h1>📊GitHub Stats:</h1>
   <a herf="#" align=left>
-    <img src="https://github-readme-stats.vercel.app/api?username=Hetari&theme=transparent&border_radius=10&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="hetari" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Hetari&theme=transparent&border_radius=10&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&text_color=e34882&title_color=e34882&icon_color=e34882&border_color=932F54" alt="hetari" />
   </a>
  
   <a href="#" align=right>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Hetari&theme=transparent&border_radius=10&mode=weekly&count_private=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Hetari&ring=E34882&fire=C13D6F&border_radius=10&currStreakLabel=E34882&dates=E34882&sideNums=C13D6F&background=EB545400&currStreakNum=E34882&sideLabels=E34882&border=932F54" alt="GitHub Streak"/>
   </a>
   
   <br />
   <br />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetari&theme=transparent&border_radius=10&include_all_commits=true&count_private=true&layout=compact&size_weight=1&count_weight=1&hide=html" alt="hetari" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetari&theme=transparent&border_radius=10&include_all_commits=true&count_private=true&layout=compact&size_weight=1&count_weight=1&hide=html&text_color=e34882&title_color=e34882&border_color=932F54" alt="hetari" />
 </div>
 
 <br/>
