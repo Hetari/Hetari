@@ -72,12 +72,15 @@
 
 <div align=center>
   <h1>📊GitHub Stats:</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hetari&theme=transparent&order_radius=10&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="hetari" />
-  
-  <a href="https://git.io/streak-stats">
+  <a herf="#" align=left>
+    <img src="https://github-readme-stats.vercel.app/api?username=Hetari&theme=transparent&border_radius=10&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="hetari" />
+  </a>
+ 
+  <a href="#" align=right>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Hetari&theme=transparent&border_radius=10&mode=weekly&count_private=true" alt="GitHub Streak" />
   </a>
   
+  <br />
   <br />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetari&theme=transparent&border_radius=10&include_all_commits=true&count_private=true&layout=compact&size_weight=1&count_weight=1&hide=html" alt="hetari" />
 </div>
