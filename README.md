@@ -82,11 +82,11 @@
 
 ## 📊 GitHub Stats:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hetari&theme=transparent&border_radius=10&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&text_color=e34882&title_color=e34882&icon_color=e34882&border_color=932F54" alt="hetari" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hetari&theme=transparent&border_radius=10&count_private=true&show_icons=true&rank_icon=github&text_color=e34882&title_color=e34882&icon_color=e34882&border_color=932F54" alt="hetari" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Hetari&ring=E34882&fire=C13D6F&border_radius=10&currStreakLabel=E34882&dates=E34882&sideNums=C13D6F&background=EB545400&currStreakNum=E34882&sideLabels=E34882&border=932F54" alt="GitHub Streak"/>
   
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetari&theme=transparent&border_radius=10&include_all_commits=true&count_private=true&layout=compact&size_weight=1&count_weight=1&hide=html&text_color=e34882&title_color=e34882&border_color=932F54" alt="hetari" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetari&theme=transparent&border_radius=10&count_private=true&layout=compact&size_weight=1&count_weight=1&hide=html&text_color=e34882&title_color=e34882&border_color=932F54" alt="hetari" />
 </div>
 
 <br />
