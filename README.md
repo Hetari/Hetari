@@ -79,12 +79,14 @@
 ## ⚡ Tech Stack
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux badge">
   <img src="https://img.shields.io/badge/vscode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs-code badge">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git badge">
   <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss&style=for-the-badge" alt="TailwindCSS badge">
   <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge" alt="JavaScript badge">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge" />
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js badge">
+  <img src="https://img.shields.io/badge/Nuxt%20JS-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js badge">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS badge">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM badge">
@@ -164,24 +166,24 @@ https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres
 ## ⏲️ This week I spent time on...
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-JavaScript               4 hrs 3 mins        ████████████░░░░░░░░░░░░░   49.29 % 
-PHP                      2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   30.79 % 
-Python                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-HTML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+💬 Programming Languages:
+JavaScript               4 hrs 3 mins        ████████████░░░░░░░░░░░░░   49.29 %
+PHP                      2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   30.79 %
+Python                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+HTML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 
-💻 Operating System: 
-Linux                    8 hrs 13 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+Linux                    8 hrs 13 mins       █████████████████████████   100.00 %
 ```
-
 
 <!--END_SECTION:waka-->
 
