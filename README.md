@@ -164,6 +164,15 @@ https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres
 ### ⏲️ This week I spent time on...
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%209%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💻 Operating System: 
+Linux                    8 hrs 13 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
