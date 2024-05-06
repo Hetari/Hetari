@@ -164,6 +164,24 @@ https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres
 ## ⏲️ This week I spent time on...
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2013%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               4 hrs 3 mins        ████████████░░░░░░░░░░░░░   49.29 % 
+PHP                      2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   30.79 % 
+Python                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+HTML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+
+💻 Operating System: 
+Linux                    8 hrs 13 mins       █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
