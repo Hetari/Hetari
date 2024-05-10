@@ -88,30 +88,29 @@ https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres
 
 <table align="center">
   <tr border="none">
-    <td width="50%" align="center">
+    <td width="50%" align="left">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetari&theme=dracula&border_radius=10&hide_border=true&count_private=true&layout=compact&size_weight=1&count_weight=1&hide=html" alt="hetari" />
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="right">
       <img src="https://leetcard.jacoblin.cool/hetari?ext=heatmap&radius=20&cache=0"/>
     </td>
   </tr>
-</table>
-<table align="center" style="border-collapse: collapse;">
+
   <tr style="border: none;">
-    <td width="50%" align="center" style="border: none;">
+    <td width="50%" align="left" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=Hetari&theme=dracula&border_radius=10&hide_border=true&count_private=true&show_icons=true" alt="hetari" />
     </td>
-    <td width="50%" align="center" style="border: none;">
+    <td width="50%" align="right" style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Hetari&border_radius=10&hide_border=true&theme=dracula" alt="GitHub Streak"/>
-    </td>   
+    </td>
   </tr>
+
   <tr style="border: none;">
-    <td colspan="2" align="center" style="border: none;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hetari&theme=dracula"/>
+    <td colspan="2" align="left" style="border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hetari&theme=dracula"/>
     </td>
   </tr>
 </table>
-
 <br />
 
 ## My Contributions 🐍
