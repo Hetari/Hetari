@@ -3,64 +3,11 @@
   <img src="Hetari.gif">
 </h1>
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hetari&icon=7&color=1&pretty=true"/>
-  <br />
-  <samp>
-    You have finally discovered my Github profile.✨ <br />
-    Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br />
-    Happy Coding! 💻
-  </samp>
-</div>
-
-## About me 👽
-
-<p>
-- Born to code, 2002 in Yemen  💻 <br />
-- Using Linux for all shit 💀 <br />
-- Making awesome stuff since 2024 🚀 <br />
-- Deeply committed to exploring innovative solutions and exploring new frontiers with my ideas. 💡 <br />
-- Code magician by day, dreamer by night ✨ <br />
-- Btw I'm in a binary relationship with my IDE 💓 <br />
-<span style="display: flex; gap: 1rem ">
-- Do you have a question? <a href="https://github.com/Hetari/Hetari/issues/1">
-  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" /> </a>
-</span>
-</p>
-
-### Check my projects:
-
-<div style="display: flex; gap: 0.5rem; align-items: center">
-  <a href="https://github.com/hetari" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hetari?style=for-the-badge&logo=github&logoColor=white&color=%23333">
-  </a>
-  <a href="https://github.com/hetari" target="_blank">
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/hetari?style=for-the-badge&logo=github&logoColor=white&color=%23333"">
-  </a>
-</div>
-<br />
-
-<table>
-<tr>
-  <td style=" width: 50%">
-    <a href="https://github.com/hetari/pyutube" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hetari&repo=pyutube&theme=dracula&border_radius=10" />
-    </a>
-  </td>
-  <td style=" width: 50%">
-    <a  href="https://github.com/hetari/blog" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hetari&repo=blog&theme=dracula&border_radius=10" />
-    </a>
-  </td>
-</tr>
-</table>
-
-<a id="follow-me"></a>
-
-## 📫 Follow Me & Reach me:
+## Follow and Reach Me 📫
 
 <a href="https://github.com/Hetari" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge" />
+</a>
 <a href="mailto:hetari3all@gmail.com" target="_blank" style="text-decoration: none">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail badge" />
 </a>
@@ -71,12 +18,41 @@
   <img src="https://img.shields.io/badge/Twitt...X-000?style=for-the-badge&logo=X&logoColor=fff" alt="twitter badge" />
 </a>
 <!--
-<a href="https://salesp07.github.io" target="_blank">
+<a href="" target="_blank">
    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="portfolio badge" />
 </a>
 -->
+<br /><br />
+<samp>
+    I believe that staying curious is essential for growth. Whether it’s exploring new frameworks, attending tech conferences, taking part in tech communities or contributing to open-source projects, I’m always eager to expand my knowledge 💻
+</samp>
 
-## ⚡ Tech Stack
+## About me :slightly_smiling_face:
+
+<div align="center">
+  <a href="https://en.wikipedia.org/wiki/Open_source"  target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge"/>
+  </a>
+  <a href="https://twitter.com/4Hetari"  target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=hetari&label=Profile%20hugs&style=for-the-badge&color=071A2C" alt="hetari" />
+  </a>
+  <a href="https://github.com/hetari" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hetari?style=for-the-badge&logo=github&logoColor=white&color=071A2C">
+  </a>
+  <a href="https://github.com/hetari" target="_blank">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/hetari?style=for-the-badge&logo=github&logoColor=white&color=071A2C">
+  </a>
+  <a href="https://github.com/Hetari/Hetari/issues/1">
+    <img src="https://img.shields.io/badge/Ask%20me-here-1abc9c.svg?style=for-the-badge" /> </a>
+</div>
+
+- **Born to code, 2002 in Yemen 💻**
+- **Using Linux for all shit 💀**
+- **Making awesome stuff since 2024 🚀**
+- **Btw I'm in a binary relationship with my IDE 💓**
+<!-- - **Hiding bad shit since 2024 👽** -->
+
+## Tech Stack ⚡
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux badge">
@@ -108,7 +84,7 @@ https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres
 
 ---
 
-## 📊 GitHub Stats:</h3>
+## GitHub Stats 📊
 
 <table align="center">
   <tr border="none">
@@ -138,7 +114,7 @@ https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres
 
 <br />
 
-## 🐍 My Contributions</h3>
+## My Contributions 🐍
 
 <picture>
   <source
@@ -157,13 +133,13 @@ https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres
 
 <br />
 
-## 🧬 A Quote From A Random Developer
+## A Quote From A Random Developer 🧬
 
 <div >
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
 </div>
 
-## ⏲️ This week I spent time on...
+## This week I spent time on ⏲️
 
 <!--START_SECTION:waka-->
 
