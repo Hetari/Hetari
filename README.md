@@ -52,6 +52,10 @@
 - **Btw I'm in a binary relationship with my IDE 💓**
 <!-- - **Hiding bad shit since 2024 👽** -->
 
+Contributor at 🎗️
+
+[PytubeFix](https://github.com/JuanBindez/pytubefix)
+
 ## Tech Stack ⚡
 
 <div align="center">
@@ -141,22 +145,22 @@ https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres
 ## This week I spent time on ⏲️
 
 <!--START_SECTION:waka-->
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Vue.js                   10 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   35.53 % 
-TypeScript               4 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-PHP                      3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Markdown                 2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-HTML                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+💬 Programming Languages:
+Vue.js                   10 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   35.53 %
+TypeScript               4 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.31 %
+PHP                      3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+Markdown                 2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+HTML                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
 
-💻 Operating System: 
-Linux                    29 hrs 59 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Linux                    29 hrs 59 mins      █████████████████████████   100.00 %
 ```
-
 
 <!--END_SECTION:waka-->
 
