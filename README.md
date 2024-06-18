@@ -3,31 +3,13 @@
   <img src="Hetari.gif">
 </h1>
 
-## Follow and Reach Me 📫
+## I Making Awesome Shit Since 2024 🚀
 
-<a href="https://github.com/Hetari" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge" />
-</a>
-<a href="mailto:hetari3all@gmail.com" target="_blank" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail badge" />
-</a>
-<a href="https://t.me/e_1_e" target="_blank" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram badge" />
-</a>
-<a href="https://twitter.com/4Hetari" target="_blank" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/Twitt...X-000?style=for-the-badge&logo=X&logoColor=fff" alt="twitter badge" />
-</a>
-<!--
-<a href="" target="_blank">
-   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="portfolio badge" />
-</a>
--->
-<br /><br />
 <samp>
-    I believe that staying curious is essential for growth. Whether it’s exploring new frameworks, attending tech conferences, taking part in tech communities or contributing to open-source projects, I’m always eager to expand my knowledge 💻
+    I believe that staying curious is essential for growth. Whether exploring new frameworks, attending tech conferences, participating in tech communities, or contributing to open-source projects, I’m always eager to expand my knowledge 💻.
 </samp>
 
-## About me :slightly_smiling_face:
+<br />
 
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/Open_source"  target="_blank">
@@ -45,18 +27,30 @@
   <a href="https://github.com/Hetari/Hetari/issues/1">
     <img src="https://img.shields.io/badge/Ask%20me-here-1abc9c.svg?style=for-the-badge" /> </a>
 </div>
-
-- **Born to code, 2002 in Yemen 💻**
-- **Using Linux for all shit 💀**
-- **Making awesome stuff since 2024 🚀**
-- **Btw I'm in a binary relationship with my IDE 💓**
-<!-- - **Hiding bad shit since 2024 👽** -->
-
-Contributor at 🎗️
-
-[PytubeFix](https://github.com/JuanBindez/pytubefix)
+<div align="center">
+  <a href="https://github.com/Hetari" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge" />
+  </a>
+  <a href="mailto:hetari3all@gmail.com" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail badge" />
+  </a>
+  <a href="https://t.me/e_1_e" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram badge" />
+  </a>
+  <a href="https://twitter.com/4Hetari" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Twitt...X-000?style=for-the-badge&logo=X&logoColor=fff" alt="twitter badge" />
+  </a>
+  <!--
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="portfolio badge" />
+  </a>-->
+</div>
 
 ## Tech Stack ⚡
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hetari&border_radius=10&hide_border=true&theme=dracula" alt="GitHub Streak"/>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux badge">
@@ -83,87 +77,7 @@ https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize
 https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white 
 -->
 </div>
-
 <br />
-
----
-
-## GitHub Stats 📊
-
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetari&theme=dracula&border_radius=10&hide_border=true&count_private=true&layout=compact&size_weight=1&count_weight=1&hide=html" alt="hetari" />
-    </td>
-    <td width="50%" align="right">
-      <img src="https://leetcard.jacoblin.cool/hetari?ext=heatmap&radius=20&cache=0"/>
-    </td>
-  </tr>
-
-  <tr style="border: none;">
-    <td width="50%" align="left" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Hetari&theme=dracula&border_radius=10&hide_border=true&count_private=true&show_icons=true" alt="hetari" />
-    </td>
-    <td width="50%" align="right" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Hetari&border_radius=10&hide_border=true&theme=dracula" alt="GitHub Streak"/>
-    </td>
-  </tr>
-
-  <tr style="border: none;">
-    <td colspan="2" align="left" style="border: none;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hetari&theme=dracula"/>
-    </td>
-  </tr>
-</table>
-<br />
-
-## My Contributions 🐍
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/hetari/hetari/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/hetari/hetari/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/hetari/hetari/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-<br />
-
-## A Quote From A Random Developer 🧬
-
-<div >
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"/>
-</div>
-
-## This week I spent time on ⏲️
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Vue.js                   12 hrs 23 mins      ███████████░░░░░░░░░░░░░░   45.66 % 
-SCSS                     5 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-JavaScript               4 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-TypeScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-HTML                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-
-💻 Operating System: 
-Linux                    27 hrs 9 mins       █████████████████████████   100.00 % 
-```
-
-
-<!--END_SECTION:waka-->
-
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </h1>
