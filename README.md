@@ -1,15 +1,22 @@
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <img src="Hetari.gif">
-</h1>
-
-## I Making Awesome Shit Since 2024 🚀
-
-<samp>
-    I believe that staying curious is essential for growth. Whether exploring new frameworks, attending tech conferences, participating in tech communities, or contributing to open-source projects, I’m always eager to expand my knowledge 💻.
-</samp>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h1>
+        <img src="Hetari.gif">
+      </h1>
+    </td>
+    <td width="50%">
+      <samp>
+        I believe that staying curious is essential for growth. Whether exploring new frameworks, attending tech conferences, participating in tech communities, or contributing to open-source projects, I’m always eager to expand my knowledge 💻.
+      </samp>
+    </td>
+  </tr>
+</table>
 
 <br />
+
+## I Making Awesome Shit Since 2024 🚀
 
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/Open_source"  target="_blank">
