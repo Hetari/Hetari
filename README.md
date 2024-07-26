@@ -16,7 +16,7 @@
 
 <br />
 
-## I Making Awesome Shit Since 2024 🚀
+## I Make Awesome Shit Since 2024 🚀
 
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/Open_source"  target="_blank">
