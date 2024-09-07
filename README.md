@@ -47,10 +47,9 @@
   <a href="https://twitter.com/4Hetari" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Twitt...X-000?style=for-the-badge&logo=X&logoColor=fff" alt="twitter badge" />
   </a>
-  <!--
-  <a href="" target="_blank">
+  <a href="https://hetari.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="portfolio badge" />
-  </a>-->
+  </a>
 </div>
 
 ## Tech Stack ⚡
