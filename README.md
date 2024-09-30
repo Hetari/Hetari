@@ -61,10 +61,10 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hetari&border_radius=10&hide_border=true&theme=dracula" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hetari&border_radius=10&hide_border=true&theme=dracula" alt="GitHub Streak" style="width: 50vw;"/>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hetari&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=false&hide=html,hack" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hetari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&theme=dracula&locale=en&hide_border=false" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hetari&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide=html,hack&hide_border=true" alt="languages graph" style="width: 25vw;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hetari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&theme=dracula&locale=en&hide_border=true" alt="stats graph" style="width: 25vw;"  />
 </div>
 
 
