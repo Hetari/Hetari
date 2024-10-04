@@ -43,6 +43,89 @@
     <img src="https://img.shields.io/badge/Ask%20me-here-1abc9c.svg?style=for-the-badge" /> </a>
 </div>
 
+## Skills 📜
+
+<table>
+<tr>
+<td valign="top">
+
+```markdown
+.
+
+#### Languages
+
+- TypeScript
+- JavaScript
+- Python
+```
+
+</td>
+<td valign="top">
+
+```markdown
+.
+
+#### Frontend
+
+- VueJS
+- NuxtJs
+- Tailwindcss
+- GSAP
+- Shadcn-vue
+```
+
+</td>
+<td valign="top">
+
+```markdown
+.
+
+#### Backend
+
+- NodeJS
+- Laravel
+- MySQL
+- PostgreSQL
+```
+
+</td>
+<td valign="top">
+
+```markdown
+.
+
+#### Others
+
+- React Native
+- Electron
+- Docker
+```
+
+</td>
+</tr>
+</table>
+
+## Tech Stack ⚡
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux badge">
+  <img src="https://img.shields.io/badge/vscode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs-code badge">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git badge">
+  <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss&style=for-the-badge" alt="TailwindCSS badge">
+  <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge" alt="JavaScript badge">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js badge">
+  <img src="https://img.shields.io/badge/Nuxt%20JS-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js badge">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS badge">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM badge">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python badge">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP badge">
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel badge">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge">
+</div>
+
 <div align="center">
   <a href="https://github.com/Hetari" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge" />
@@ -67,35 +150,8 @@
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetari&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide=html,hack&hide_border=true" alt="languages graph" />
 </div>
 
-
-## Tech Stack ⚡
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux badge">
-  <img src="https://img.shields.io/badge/vscode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs-code badge">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git badge">
-  <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss&style=for-the-badge" alt="TailwindCSS badge">
-  <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge" alt="JavaScript badge">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js badge">
-  <img src="https://img.shields.io/badge/Nuxt%20JS-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js badge">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS badge">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM badge">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python badge">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP badge">
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel badge">
-  <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JWT badge">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge">
-<!-- 
-https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
-https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white
-https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white 
--->
-</div>
 <br />
+
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </h1>
