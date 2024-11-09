@@ -69,9 +69,9 @@
 
 - VueJS
 - NuxtJs
+- React
 - Tailwindcss
 - GSAP
-- Shadcn-vue
 ```
 
 </td>
@@ -86,19 +86,7 @@
 - Laravel
 - MySQL
 - PostgreSQL
-```
-
-</td>
-<td valign="top">
-
-```markdown
-.
-
-#### Others
-
-- React Native
-- Electron
-- Docker
+- Adonis.js
 ```
 
 </td>
