@@ -118,73 +118,17 @@
 
 ## 🚀 My Open Source Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4 align="start">Pyutube - YouTube Downloader CLI</h4>
-      <div align="start">
-        <p>
-          <a href="https://github.com/Hetari/pyutube" target="_blank">
-            <img src="https://img.shields.io/badge/REPO_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-        </p>
-        <p>
-          The simplest YouTube downloader CLI for al OS. Just drop in your URL to download videos or playlists. 🔥
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h4 align="start">Vuejs Code Block</h4>
-      <div align="start">
-        <p>
-          <a href="https://github.com/Hetari/vuejs-code-block" target="_blank">
-            <img src="https://img.shields.io/badge/REPO_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/Code-Block-555555?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBkPSJNMTAgNEgxNEw2IDEySDJMMTAgNFoiLz48L3N2Zz4=" />
-        </p>
-        <p>
-          A set of basic styled UI components for building powerful code blocks in Vue, perfect for showcasing code snippets.
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4 align="start">Vue and React Library Template</h4>
-      <div align="start">
-        <p>
-          <a href="https://github.com/Hetari/vue-react-library-template" target="_blank">
-            <img src="https://img.shields.io/badge/REPO_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-        </p>
-        <p>
-          A monorepo template for building reusable Vue and React libraries with Vite and TypeScript.
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h4 align="start">Vue Shadcn Dashboard</h4>
-      <div align="start">
-        <p>
-          <a href="https://github.com/Hetari/vue-shadcn-dashboard" target="_blank">
-            <img src="https://img.shields.io/badge/REPO_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/Shadcn-F5A623?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBkPSJNOC41LjUgYTcuNSw3LjUgMCAxLDAgNy41LDcuNSA3LjUsNy41IDAgMCwwLTcuNS03LjUgWiIvPjwvc3ZnPg==" />
-        </p>
-        <p>
-          A customizable and responsive dashboard template built with Vue.js and Shadcn components.
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+- **[Pyutube - YouTube Downloader CLI](https://github.com/Hetari/pyutube)**  
+  The simplest YouTube downloader CLI for Windows, Mac, and Linux. Just drop in your URL to download videos or playlists without complex options. 🔥
+
+- **[Vuejs Code Block](https://github.com/Hetari/vuejs-code-block)**  
+  A set of basic styled UI components for building powerful code blocks in Vue, perfect for showcasing code snippets.
+
+- **[Vue and React Library Template](https://github.com/Hetari/vue-react-library-template)**  
+  A monorepo template for building reusable Vue and React libraries with Vite and TypeScript. Supports ESM and UMD bundles, modular design, and type-safe development.
+
+- **[Vue Shadcn Dashboard](https://github.com/Hetari/vue-shadcn-dashboard)**  
+  A customizable and responsive dashboard template built with Vue.js and Shadcn components, ideal for modern web apps and admin panels.
 
 
 ## Tech Stack ⚡
