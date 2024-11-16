@@ -93,6 +93,89 @@
 </tr>
 </table>
 
+## 🚀 My Open Source Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <p align="start">Pyutube - YouTube Downloader CLI</p>
+      <div align="start">
+        <p>
+          <a href="https://github.com/Hetari/pyutube" target="_blank">
+            <img src="https://img.shields.io/badge/REPO_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+        </p>
+        <p>
+          The simplest YouTube downloader CLI for al OS. Just drop in your URL to download videos or playlists. 🔥
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <p align="start">
+        <a href="https://github.com/Hetari/vuejs-code-block" target="_blank">
+          Vuejs Code Block
+        </a>
+      </p>
+      <div align="start">
+        <p>
+          <a href="https://github.com/Hetari/vuejs-code-block" target="_blank">
+            <img src="https://img.shields.io/badge/REPO_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Code-Block-555555?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBkPSJNMTAgNEgxNEw2IDEySDJMMTAgNFoiLz48L3N2Zz4=" />
+        </p>
+        <p>
+          A set of basic styled UI components for building powerful code blocks in Vue, perfect for showcasing code snippets.
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="start">
+        <a href="https://github.com/Hetari/vue-react-library-template" target="_blank">
+          Vue and React Library Template
+        </a>
+      </p>
+      <div align="start">
+        <p>
+          <a href="https://github.com/Hetari/vue-react-library-template" target="_blank">
+            <img src="https://img.shields.io/badge/REPO_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        </p>
+        <p>
+          A monorepo template for building reusable Vue and React libraries with Vite and TypeScript.
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <p align="start">
+        <a href="https://github.com/Hetari/vue-shadcn-dashboard" target="_blank">
+          Vue Shadcn Dashboard
+        </a>
+      </p>
+      <div align="start">
+        <p>
+          <a href="https://github.com/Hetari/vue-shadcn-dashboard" target="_blank">
+            <img src="https://img.shields.io/badge/REPO_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Shadcn-F5A623?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBkPSJNOC41LjUgYTcuNSw3LjUgMCAxLDAgNy41LDcuNSA3LjUsNy41IDAgMCwwLTcuNS03LjUgWiIvPjwvc3ZnPg==" />
+        </p>
+        <p>
+          A customizable and responsive dashboard template built with Vue.js and Shadcn components.
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
 ## Tech Stack ⚡
 
 <div align="center">
@@ -131,9 +214,9 @@
 
 <br />
 
-<div align="center">
+<div align="start">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Hetari&border_radius=10&hide_border=true&theme=dracula" alt="GitHub Streak"/>
-  <br />
+<!--   <br /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=hetari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&theme=dracula&locale=en&hide_border=true" alt="stats graph" />
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetari&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide=html,hack&hide_border=true" alt="languages graph" />
 </div>
