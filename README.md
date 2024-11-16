@@ -98,7 +98,7 @@
 <table>
   <tr>
     <td width="50%">
-      <p align="start">Pyutube - YouTube Downloader CLI</p>
+      <h4 align="start">Pyutube - YouTube Downloader CLI</h4>
       <div align="start">
         <p>
           <a href="https://github.com/Hetari/pyutube" target="_blank">
@@ -113,11 +113,7 @@
       </div>
     </td>
     <td width="50%">
-      <p align="start">
-        <a href="https://github.com/Hetari/vuejs-code-block" target="_blank">
-          Vuejs Code Block
-        </a>
-      </p>
+      <h4 align="start">Vuejs Code Block</h4>
       <div align="start">
         <p>
           <a href="https://github.com/Hetari/vuejs-code-block" target="_blank">
@@ -134,11 +130,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <p align="start">
-        <a href="https://github.com/Hetari/vue-react-library-template" target="_blank">
-          Vue and React Library Template
-        </a>
-      </p>
+      <h4 align="start">Vue and React Library Template</h4>
       <div align="start">
         <p>
           <a href="https://github.com/Hetari/vue-react-library-template" target="_blank">
@@ -154,11 +146,7 @@
       </div>
     </td>
     <td width="50%">
-      <p align="start">
-        <a href="https://github.com/Hetari/vue-shadcn-dashboard" target="_blank">
-          Vue Shadcn Dashboard
-        </a>
-      </p>
+      <h4 align="start">Vue Shadcn Dashboard</h4>
       <div align="start">
         <p>
           <a href="https://github.com/Hetari/vue-shadcn-dashboard" target="_blank">
