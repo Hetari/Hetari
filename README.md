@@ -124,7 +124,7 @@
 - **[Vuejs Code Block](https://github.com/Hetari/vuejs-code-block)**  
   A set of basic styled UI components for building powerful code blocks in Vue, perfect for showcasing code snippets.
 
-- **[Vue and React Library Template](https://github.com/Hetari/vue-react-library-template)**  
+- **[Vue and React Library Template](https://github.com/Hetari/vue-and-react-library-template)**  
   A monorepo template for building reusable Vue and React libraries with Vite and TypeScript. Supports ESM and UMD bundles, modular design, and type-safe development.
 
 - **[Vue Shadcn Dashboard](https://github.com/Hetari/vue-shadcn-dashboard)**  
