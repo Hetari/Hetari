@@ -50,21 +50,21 @@
     </td>
   </tr>
 </table>
-<div align="center">
-  <h1>I Make Awesome Shit Since 2024 🚀</h1>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hetari&border_radius=10&hide_border=true&theme=dracula" 
-       alt="GitHub Streak" width="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hetari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&theme=dracula&locale=en&hide_border=true" 
-       alt="stats graph" width="100%"/>
-  <br>
-  <img width="100%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=hetari&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide=html,hack&hide_border=true" 
-       alt="languages graph"/>
-</div>
+# I Make Awesome Shit Since 2024 🚀
+## 🚀 My Open Source Projects
 
+- **[Pyutube - YouTube Downloader CLI](https://github.com/Hetari/pyutube)**  
+  The simplest YouTube downloader CLI for Windows, Mac, and Linux. Just drop in your URL to download videos or playlists without complex options. 🔥
+
+- **[Vuejs Code Block](https://github.com/Hetari/vuejs-code-block)**  
+  A set of basic styled UI components for building powerful code blocks in Vue, perfect for showcasing code snippets.
+
+- **[Vue and React Library Template](https://github.com/Hetari/vue-and-react-library-template)**  
+  A monorepo template for building reusable Vue and React libraries with Vite and TypeScript. Supports ESM and UMD bundles, modular design, and type-safe development.
+
+- **[Vue Shadcn Dashboard](https://github.com/Hetari/vue-shadcn-dashboard)**  
+  A customizable and responsive dashboard template built with Vue.js and Shadcn components, ideal for modern web apps and admin panels.
 
 ## Skills 📜
 
@@ -116,20 +116,14 @@
 </tr>
 </table>
 
-## 🚀 My Open Source Projects
-
-- **[Pyutube - YouTube Downloader CLI](https://github.com/Hetari/pyutube)**  
-  The simplest YouTube downloader CLI for Windows, Mac, and Linux. Just drop in your URL to download videos or playlists without complex options. 🔥
-
-- **[Vuejs Code Block](https://github.com/Hetari/vuejs-code-block)**  
-  A set of basic styled UI components for building powerful code blocks in Vue, perfect for showcasing code snippets.
-
-- **[Vue and React Library Template](https://github.com/Hetari/vue-and-react-library-template)**  
-  A monorepo template for building reusable Vue and React libraries with Vite and TypeScript. Supports ESM and UMD bundles, modular design, and type-safe development.
-
-- **[Vue Shadcn Dashboard](https://github.com/Hetari/vue-shadcn-dashboard)**  
-  A customizable and responsive dashboard template built with Vue.js and Shadcn components, ideal for modern web apps and admin panels.
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hetari&border_radius=10&hide_border=true&theme=dracula" 
+       alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hetari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&theme=dracula&locale=en&hide_border=true" 
+       alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hetari&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide=html,hack&hide_border=true" 
+       alt="languages graph"/>
+</div>
 
 ## Tech Stack ⚡
 
