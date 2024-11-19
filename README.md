@@ -56,11 +56,11 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Hetari&border_radius=10&hide_border=true&theme=dracula" 
-       alt="GitHub Streak" width="45%"/>
+       alt="GitHub Streak" width="100%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=hetari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&theme=dracula&locale=en&hide_border=true" 
-       alt="stats graph" width="45%"/>
+       alt="stats graph" width="100%"/>
   <br>
-  <img height="195" 
+  <img width="100%" 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=hetari&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide=html,hack&hide_border=true" 
        alt="languages graph"/>
 </div>
