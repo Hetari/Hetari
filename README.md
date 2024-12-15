@@ -117,7 +117,7 @@
 </table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hetari&border_radius=10&hide_border=true&theme=dracula" 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hetari&border_radius=10&hide_border=true&theme=dracula](https://github-readme-streak-stats.herokuapp.com?user=Hetari&theme=dracula&hide_border=true&border_radius=10" 
        alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api?username=hetari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&theme=dracula&locale=en&hide_border=true" 
        alt="stats graph"/>
