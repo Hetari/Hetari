@@ -20,22 +20,6 @@
     <img src="https://img.shields.io/badge/Ask%20me-here-1abc9c.svg?style=for-the-badge" /> </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Hetari" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge" />
-  </a>
-  <a href="mailto:hetari3all@gmail.com" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail badge" />
-  </a>
-  <a href="https://t.me/e_1_e" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram badge" />
-  </a>
-  <a href="https://twitter.com/4Hetari" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Twitt...X-000?style=for-the-badge&logo=X&logoColor=fff" alt="twitter badge" />
-  </a>
-</div>
-
-
 <table>
   <tr>
     <td width="50%" align="center">
@@ -53,7 +37,22 @@
 
 # I Make Awesome Shit Since 2024 🚀
 
-## Tech Stack ⚡
+<div align="center">
+  <a href="https://github.com/Hetari" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github badge" />
+  </a>
+  <a href="mailto:hetari3all@gmail.com" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail badge" />
+  </a>
+  <a href="https://t.me/e_1_e" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram badge" />
+  </a>
+  <a href="https://twitter.com/4Hetari" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Twitt...X-000?style=for-the-badge&logo=X&logoColor=fff" alt="twitter badge" />
+  </a>
+</div>
+
+<!-- ## Tech Stack ⚡
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux badge">
   <img src="https://img.shields.io/badge/vscode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs-code badge">
@@ -71,7 +70,7 @@
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel badge">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge">
-</div>
+</div>  -->
 
 ## 🚀 My Open Source Projects
 
@@ -89,7 +88,7 @@
 
 ## Skills 📜
 
-<table>
+<table border="0">
 <tr>
 <td valign="top">
 
@@ -137,14 +136,24 @@
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hetari&border_radius=10&hide_border=true&theme=dracula](https://github-readme-streak-stats.herokuapp.com?user=Hetari&theme=dracula&hide_border=true&border_radius=10" 
-       alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hetari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&theme=dracula&locale=en&hide_border=true" 
-       alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hetari&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide=html,hack&hide_border=true" 
-       alt="languages graph"/>
-</div>
+<table align="center" border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Hetari&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=hetari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&theme=dracula&locale=en&hide_border=true" alt="stats graph"/>
+    </td>
+  </tr>
+</table>
+<table align="center" border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hetari&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide=html,hack&hide_border=true" alt="languages graph"/>
+    </td>
+  </tr>
+</table>
+
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
