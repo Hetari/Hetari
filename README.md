@@ -1,5 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+# I Make Awesome Shit Since 2024 🚀
+
 <div align="center">
   <a href="https://hetari.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="portfolio badge" />
@@ -20,6 +22,8 @@
     <img src="https://img.shields.io/badge/Ask%20me-here-1abc9c.svg?style=for-the-badge" /> </a>
 </div>
 
+
+<!-- 
 <table>
   <tr>
     <td width="50%" align="center">
@@ -34,8 +38,7 @@
     </td>
   </tr>
 </table>
-
-# I Make Awesome Shit Since 2024 🚀
+-->
 
 <div align="center">
   <a href="https://github.com/Hetari" target="_blank">
@@ -52,7 +55,8 @@
   </a>
 </div>
 
-<!-- ## Tech Stack ⚡
+<!-- 
+## Tech Stack ⚡
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux badge">
   <img src="https://img.shields.io/badge/vscode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs-code badge">
@@ -75,17 +79,15 @@
 ## 🚀 My Open Source Projects
 
 - **[Pyutube - YouTube Downloader CLI](https://github.com/Hetari/pyutube)**  
-  The simplest YouTube downloader CLI for Windows, Mac, and Linux. Just drop in your URL to download videos or playlists without complex options. 🔥
+  A simplest YouTube downloader CLI to download videos or playlists without complex options.
 
 - **[Vuejs Code Block](https://github.com/Hetari/vuejs-code-block)**  
-  A set of basic styled UI components for building powerful code blocks in Vue, perfect for showcasing code snippets.
+  A set of basic styled UI components for building powerful code blocks in Vue.
 
 - **[Vue and React Library Template](https://github.com/Hetari/vue-and-react-library-template)**  
-  A monorepo template for building reusable Vue and React libraries with Vite and TypeScript. Supports ESM and UMD bundles, modular design, and type-safe development.
+  A template for building reusable Vue and React libraries with Vite and TypeScript.
 
-- **[Vue Shadcn Dashboard](https://github.com/Hetari/vue-shadcn-dashboard)**  
-  A customizable and responsive dashboard template built with Vue.js and Shadcn components, ideal for modern web apps and admin panels.
-
+<!-- 
 ## Skills 📜
 
 <table border="0">
@@ -135,6 +137,7 @@
 </td>
 </tr>
 </table>
+-->
 
 <table align="center" border="0">
   <tr>
